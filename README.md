@@ -7,14 +7,14 @@ It can be used for anlaysis for any region and any embassy with some modificatio
 So, feel free to use for your analysis if you are edv selectee. 
 
 Step to use this code!!!
-1. clone this code
+1. Clone this code in your machine
 2. Go to https://dvcharts.xarthisius.xyz/ceacFY21.html
 3. In that website, select any year for analysis eg. 2018 
-4. click on the last .csv file given in that list of .csv files
+4. Then, click on the last .csv file given in that list of .csv files in that website.
 5. That .csv file opens with whole information of every region namely AF, AS, EU, SA, OC with their edv datas
-6. select whole page and copy all of that particular .csv file
-7. Run this python file in your terminal #code to run is --> python edvRegex.py
+6. Select whole page and copy all of that particular .csv file
+7. Run this python file in your machine         #code to run is --> python edvRegex.py
 8. It will shows three numerical datas in your terminal i. Total visa ii. Primary Applicant visa  iii. Family visa
-9. Also, the whole data will be written in scrap.txt file in the same directory.
+9. Also, the filtered datas will be written in "scrap.txt" file in your machine.
         
                         Thank You!!!
